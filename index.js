@@ -22,3 +22,7 @@ class Dog {
    return `${this.name} says woof!`
  }
 }
+
+class Bird {
+  constructor(name)
+}
