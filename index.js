@@ -31,7 +31,7 @@ class Bird {
       if a 
     return `It's me! ${this.name}, the parrot!`
     else 
-    return 
+    return 'Mable says squawk!'
   }
 }
 
