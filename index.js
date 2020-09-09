@@ -13,7 +13,7 @@ return `${this.name} says meow!`
   
 }
 
-class dog() {
+class Dog {
  constructor(name){
  this.name = name 
  }
