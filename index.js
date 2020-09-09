@@ -24,14 +24,15 @@ class Dog {
 }
 
 class Bird {
-  constructor(name){
+  constructor(name,sex){
     this.name = name
+    this.sex = sex
   }
-    speak(a,b){
-      if a 
+    speak(){
+      if (this.sex === male)
+      return 'Mable says squawk!'
+      else
     return `It's me! ${this.name}, the parrot!`
-    else 
-    return 'Mable says squawk!'
   }
 }
 
