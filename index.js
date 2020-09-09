@@ -9,5 +9,6 @@ class Cat {
   
   // return ${name} name says meow!
 
+cat.speak() 
   
 }
