@@ -25,6 +25,6 @@ class Dog {
 
 class Bird {
   constructor(name){
-    return `It's me! ${this.name} , the parrot!`
+    return `It's me! ${this.name}, the parrot!`
   }
 }
