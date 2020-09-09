@@ -27,8 +27,11 @@ class Bird {
   constructor(name){
     this.name = name
   }
-    speak(){
+    speak(a,b){
+      if a 
     return `It's me! ${this.name}, the parrot!`
+    else 
+    return 
   }
 }
 
