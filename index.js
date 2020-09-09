@@ -12,3 +12,13 @@ return `${this.name} says meow!`
 }
   
 }
+
+class dog() {
+ constructor(name){
+ this.name = name 
+ }
+ 
+ speak(){
+   return `${this.name} says bark!`
+ }
+}
