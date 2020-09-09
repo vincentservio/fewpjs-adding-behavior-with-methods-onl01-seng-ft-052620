@@ -6,9 +6,9 @@ class Cat {
     this.sex = sex
   }
   
-  cat.speak() 
-  // return ${name} name says meow!
+   speak () {
+return `${name} name says meow!`
 
-
+}
   
 }
